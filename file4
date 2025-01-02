@@ -1,0 +1,2 @@
+Display the Date String at Line of File
+The --file option prints the date string present at each line of the file. Unlike the --date option, --file can present multiple date strings at each line.

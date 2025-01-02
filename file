@@ -1,0 +1,2 @@
+Set or Change Date in Linux
+To set the system date and time with the date command, use the -s (or --set) option followed by the desired date and time in a specific format
